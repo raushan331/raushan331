@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Raushan+Kumar" />
+<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi,+I'm+Raushan+Kumar+👋" />
 </p>
-
-<h2 align="center">Hi, I'm Raushan Kumar 👋</h2>
 
 <p align="center">
 🚀 Web Developer Learner | 💻 JavaScript Practice Daily | 📈 Trading Enthusiast
