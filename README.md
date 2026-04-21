@@ -36,7 +36,7 @@
 🔭 I’m currently working on  
 • Netflix Clone  
 • Weather App using API  
-• Portfolio Websites using Bootstrap  
+• Portfolio Website  
 
 👯 I’m looking to collaborate on  
 • Beginner-friendly Web Development Projects  
