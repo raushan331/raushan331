@@ -1,5 +1,28 @@
+<!-- Animated Gradient Top Banner -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=00FF00&center=true&vCenter=true&width=700&repeat=true&lines=Hi,+I'm+Raushan+Kumar+👋;Frontend+Developer+Learner;JavaScript+Enthusiast;Technical Analysis Learner +📊" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</p>
+
+<!-- Color-changing Typing Header -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&center=true&vCenter=true&width=750&repeat=true&color=00FF00&lines=Hi,+I'm+Raushan+Kumar+👋"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&center=true&vCenter=true&width=750&repeat=true&color=00BFFF&lines=Frontend+Developer+Learner"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&center=true&vCenter=true&width=750&repeat=true&color=FF5733&lines=JavaScript+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&center=true&vCenter=true&width=750&repeat=true&color=FFD700&lines=Technical+Analysis+Learner+📊"/>
+</p>
+
+<!-- Animated Gradient Bottom Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
 <p align="center">
