@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Raushan+Kumar" />
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Raushan+Kumar" />
 </p>
 
 # Hi, I'm Raushan Kumar 👋
