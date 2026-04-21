@@ -1,8 +1,12 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Raushan+Kumar" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Raushan+Kumar" />
 </p>
 
-# Hi, I'm Raushan Kumar 👋
+<h2 align="center">Hi, I'm Raushan Kumar 👋</h2>
+
+<p align="center">
+🚀 Web Developer Learner | 💻 JavaScript Practice Daily | 📈 Trading Enthusiast
+</p>
 🎓 Coding Learner | 💻 Web Developer | 📈 Trading Enthusiast
 # 💫 About Me:
 🔭 I’m currently working on<br><br>* Frontend projects like a **Netflix Clone**, **Weather App using API**, and **Portfolio websites with Bootstrap**<br><br>👯 I’m looking to collaborate on<br><br>* Beginner-friendly **Web Development projects (HTML, CSS, JavaScript)**<br>* Open-source frontend practice projects<br><br>🤝 I’m looking for help with<br><br>* Improving my **JavaScript logic**<br>* Learning **API integration** and **GitHub project workflow**<br><br>🌱 I’m currently learning<br><br>* **JavaScript (Advanced concepts)**<br>* **Bootstrap & Responsive Design**<br>* **Git and GitHub for project management**<br><br>💬 Ask me about<br><br>* HTML, CSS, Javascript<br>* Beginner frontend project ideas<br><br>
